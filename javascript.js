@@ -7,7 +7,7 @@ $(document).ready(function () {
 
     msgWhatLetter = new SpeechSynthesisUtterance();
     msgWhatLetter.text = "Abhirath, what letter is this";
-    $("input").focus();
+    // $("input").focus();
 });
 
 
